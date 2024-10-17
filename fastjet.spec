@@ -9,7 +9,7 @@ Name:           fastjet
 Version:        3.0.2
 Release:        1
 License:        GPLv3
-Url:		http://www.fastjet.fr
+Url:		https://www.fastjet.fr
 Source0:	http://www.fastjet.fr/repo/%{name}-%{version}.tar.gz
 Group:		Sciences/Physics
 Summary:        Fast implementation of several recombination jet algorithms
