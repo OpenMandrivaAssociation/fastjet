@@ -13,6 +13,11 @@ Url:		https://www.fastjet.fr
 Source0:	http://www.fastjet.fr/repo/%{name}-%{version}.tar.gz
 Group:		Sciences/Physics
 Summary:        Fast implementation of several recombination jet algorithms
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	gcc-gfortran gcc-c++
 
 %description
